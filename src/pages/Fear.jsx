@@ -55,11 +55,11 @@ export default function Fear() {
         </div>
         <div className="book2">
             <img src={P2} alt="" />
-            <a href="www.google.com">Meditation</a>
+            <a href="https://www.brahmakumaris.com/centers/">Meditation</a>
         </div>
         <div className="book3">
             <img src={P3} alt="" />
-            <a href="www.google.com">Talk To Friends</a>
+            <a href="https://bell-brandon0.medium.com/why-you-should-be-talking-to-your-friends-at-least-once-a-week-5d70af3ac24e">Talk To Friends</a>
         </div>
       </div>
     </div>
