@@ -21,15 +21,15 @@ export default function Angry() {
       <div className="books">
         <div className="book1">
             <img src={B1} alt="" />
-            <a href="https://www.amazon.in/Bhagavad-Gita-Original-English-As/dp/B07MDTX8BR/ref=sr_1_4?adgrpid=133847502613&dib=eyJ2IjoiMSJ9.j3cyLvfX96y2_lBlBIMicUwR5MEp293hROvzVl3weXBvOXdUSwvzNJBL4CXe997ephbKG9_MLlJpcos1YRYdGaG7jLF0-S0UnnymCpsETN3DGt2fbZL2s-tJeoBB3gu3KdPcqTtR0gZ-2PIy6EPTCGxuVzQxDNJMXOwI4u5Dt6YCao9GFNwsW_GHfUSlApeCnJhuOjkWSmz3xndtp8tKURNpKokg-w6GmwEei9c8-Lw.exh0xD6e7h5dPlFrJ0g6dlr3X-G4QbZUdg5qPq6sKRQ&dib_tag=se&ext_vrnc=hi&gclid=CjwKCAjwrcKxBhBMEiwAIVF8rMUDGL0zx1Uu_22kPt-pts8W6im51EcUDT_j9Wo1_zPGa056QyJmdBoCMRwQAvD_BwE&hvadid=586135134197&hvdev=c&hvlocphy=9144063&hvnetw=g&hvqmt=e&hvrand=16211780604850237604&hvtargid=kwd-885671684871&hydadcr=9538_1953254&keywords=bhagwat+geeta+buy&qid=1714540807&sr=8-4">Bhagwat Geeta</a>
+            <a href="https://www.amazon.in/Anger-Buddhist-Wisdom-Cooling-Flames/dp/0712611819/ref=sr_1_1?crid=LI0BI3A6NFOZ&dib=eyJ2IjoiMSJ9.5ZC5MYWOB_hojFNh_3NVpbvSpZ5F5FdtUjIxDQlbWhYquimnErTFwN4sGh90ARdAErfWxZ-rfVIpk078azdgHccf5NUszGgxJb1BHKVSQu8lcu_zB5PLrC5Y9yYCZvhtO5JcbKsMdbDM81Qw5mRpogcaLeDdpwy1PxQocP-poQE2LrlyrHCJDvo5RMvEdTPj6a-f_D1BydVKgaMqjE2lTqSaBHKO_IZI5_gJT0eMVRk.eJt7Ae3QxgFRdCJRI5vmPeidgIA9I-A_Ufduy5bY01w&dib_tag=se&keywords=thich+nhat+hanh+anger&qid=1715072558&s=books&sprefix=thich+nhat+hanh+ange%2Cstripbooks%2C214&sr=1-1">Anger</a>
         </div>
         <div className="book2">
             <img src={B2} alt="" />
-            <a href="https://www.amazon.in/gorakhpur-ramcharitmanas-Tulsidas-Ramcharitmanas-Hardcover/dp/B09BD6P7M3/ref=sr_1_3?crid=1BTUUKN8LE2H7&dib=eyJ2IjoiMSJ9.EemMlA9XRfZ3qZW6m8UqZyJ9qhFem_API9ZtAL0Nn60Ip0I4TqJCSAjy1JQQE03F5F6VR7lHbFNjCao2gRpPJRJtAVI1eGxM5J-R02QynGL_JTA1-94v4T0EcWuM1EQkqHKD6oGcaUGLIJCSWUX6CdpsPifKIZF5-b_ULi5eT2vkT7577HeVK3WZ-UIxGWZpMD5WpFR_2hv2PzfMTPk6mB7Skbjcc8aOosBH-zDV8cs.KgREliSMGTzykBp4cviZncCFaFLBiMfjX8SMiKYmJD8&dib_tag=se&keywords=ramayan&qid=1714540858&sprefix=ramayan%2Caps%2C214&sr=8-3">Ramayan</a>
+            <a href="https://www.amazon.in/Beyond-Anger-Guide-Thomas-Harbin/dp/073823480X/ref=sr_1_2?crid=3MHR686RB5R33&dib=eyJ2IjoiMSJ9.c-rNI9P9Af8_N07W1s_iDF3rmCSN4M-O8zZq-ISF5RhvtZgR8_tV2sNpqkrgWWAp_VYq7fVWAWmh1dMbeVMAlG723CfgdDPlyio1wR2Je4JkJaeOkPoRnxNqetTR4C5cfDvYA1QFrQ-K1ZjR-wmNT8qYplTk7VWv2BbIkl8NqUzXswfjJy5RMgQvdyYkETWVLFRkpwg3PPvyhXJu2wUOupUAWRjbtgq8q-SXtpAAmDo.4ZcrHziaNfltUYsf64hqfBaon5Q8gUm2GoRlHNgc6JA&dib_tag=se&keywords=beyond+anger&qid=1715072636&s=books&sprefix=beyond+ange%2Cstripbooks%2C256&sr=1-2">Beyond Anger</a>
         </div>
         <div className="book3">
             <img src={B3} alt="" />
-            <a href="https://www.amazon.in/Helping-Others-Succeed-people-others-ebook/dp/B085GLH251/ref=sr_1_1?crid=3R1FOLBLJVIKO&dib=eyJ2IjoiMSJ9.spOqp8pp4-h-ogB3YaarBWCT1gWvrk5FEX9Efz3GR8KMwEMaskZ4tDXh1pYaryxg4j6wU8K2AgmzmsGWwVbm6selLWFRQK2bgcpODDAZXSsM2ISbXNP6wdw6DRIDdGUB26uMUnx2U6adKrYcRnwKoQ4KHJKpugUnK0SqEON8d-kqgt4HDzqzlqDO-Oytx5gjbedK4TbehOQ-2ML-mmBRPqk4DYIqL11YClqPjB5ihYQ.zNZgbUOrHlfDt_l7eVcU51wEyvNwwCuFxg0uiIFjYHM&dib_tag=se&keywords=Helping+Others+Succeed&qid=1714540919&sprefix=helping+others+succeed%2Caps%2C255&sr=8-1">Helping Others Succeed</a>
+            <a href="https://www.amazon.in/Anger-Management-Workbook-Men-Emotions/dp/1623157307/ref=sr_1_1_sspa?crid=1QD6ANXW8RZOV&dib=eyJ2IjoiMSJ9.z9WyZrPzNIUmWvkgCUrGeOjBVmmOiMCNPodxpqGY0owk4kZu3f-FX9IRkRcO_DzHxVnTNGurU6VnKhqocLT8PXjRldHKr2OBljqGS03384xcaWGll_5g-34iBNnyYB40o7Ax_dK0hfIQeyMqgxdE7MLQw9CQ-klipb2SCJItka6ILTW7dVP4ni_J-0ZocY6kpg8oE5xqxOt81vNV_lkrM-JfItKUpgjo-U1_bRXwXDI.tJqxH067MWgk0-ICjOIBKFzj2tI8f_8phzgyp7IVq5o&dib_tag=se&keywords=anger+management+for+men&qid=1715072678&s=books&sprefix=anger+management+for+me%2Cstripbooks%2C224&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1">Anger Management For Men</a>
         </div>
       </div>
       <h4>Movies You May Love to watch</h4>
@@ -55,11 +55,11 @@ export default function Angry() {
         </div>
         <div className="book2">
             <img src={P2} alt="" />
-            <a href="www.google.com">Meditation Centre</a>
+            <a href="">Meditation Centre</a>
         </div>
         <div className="book3">
             <img src={P3} alt="" />
-            <a href="www.google.com">Favourite Restraunts</a>
+            <a href="https://www.tripadvisor.in/Restaurants">Favourite Restraunts</a>
         </div>
       </div>
     </div>
