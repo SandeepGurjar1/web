@@ -36,7 +36,7 @@ export default function Neutral() {
       <div className="books">
         <div className="book1">
             <img src={M1} alt="" />
-            <a href="https://www.imdb.com/title/tt0108778/">Hum Do Hamare Do</a>
+            <a href="https://www.imdb.com/title/tt11816092/">Hum Do Hamare Do</a>
         </div>
         <div className="book2">
             <img src={M3} alt="" />
